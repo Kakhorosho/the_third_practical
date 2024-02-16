@@ -1,5 +1,7 @@
 a = int(input())
-if a >= 4838200:
+a = str(a)
+if len(a) > 7:
+    a = int(a)
     b = a % 1000 // 100
     print(b)
 else:
