@@ -1,0 +1,7 @@
+k = int(input())
+k = str(k)
+n = int(input())
+n = str(n)
+a = int(k*int(n))
+b = int(input())
+print(b*a)
