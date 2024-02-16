@@ -112,7 +112,7 @@ turtle.forward(170)
 turtle.left(20)
 turtle.forward(30)
 turtle.right(90)
-turtle.forward(30)
+turtle.forward(25)
 turtle.pendown()
 
 turtle.fillcolor('#286591')
