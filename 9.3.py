@@ -3,10 +3,6 @@ import turtle
 
 turtle.pencolor('white')
 
-#('#FF9900')
-#('#FF9900')
-#('#008000')
-
 
 def sector(angle, radius):
     turtle.begin_fill()

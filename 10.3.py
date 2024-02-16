@@ -1,3 +1,3 @@
-raw  = input('Enter number:')
+raw = input('Enter number: ')
 num = str(raw)
 print(num)
